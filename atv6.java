@@ -8,5 +8,7 @@ public class atv6 {
         System.out.println("Qual idade desta pessoa? ");
         String idade = scan.nextLine();
         System.out.println(nome + " possui " + idade + " anos.");
+    
+        scan.close();
     }
 }
