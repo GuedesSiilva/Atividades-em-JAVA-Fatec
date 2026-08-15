@@ -1,4 +1,4 @@
-public class Atividade {
+public class atv3 {
     public static void main(String[] args) {
        System.out.println("-- Ficha do Aluno --");
        System.out.println("""
