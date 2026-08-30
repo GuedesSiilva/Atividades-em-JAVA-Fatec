@@ -28,5 +28,6 @@ public class atv10{
             Thread.currentThread().interrupt();
             System.out.println("O processo foi interrompido.");
         }
+        scan.close();
     }
 }
